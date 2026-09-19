@@ -73,7 +73,7 @@ python main.py
 
 **Rakesh Verma**
 
-GitHub: https://github.com/rishi808162-max
+GitHub: https://github.com/hey-rakesh/Bank-Management-system
 
 ---
 
