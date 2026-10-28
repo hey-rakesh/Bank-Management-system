@@ -71,7 +71,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Rakesh Verma**
+**Rakesh**
 
 GitHub: https://github.com/hey-rakesh/Bank-Management-system
 
